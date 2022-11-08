@@ -46,7 +46,8 @@ legend.Idiomas{
     
 }
 body.inicio{
-   background-color: rgb(238, 185, 10);
+   background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+
 }
  
 body.Contactos{
