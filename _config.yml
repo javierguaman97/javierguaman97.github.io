@@ -20,7 +20,7 @@ author: Javier Guaman
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Estudios Primarios"
   Redes Sociales:
     - Instagram: "https://www.instagram.com/sam_javier5/?hl=es-la"
     - Facebook : " https://www.facebook.com/jabier.guaman.5"
@@ -51,9 +51,7 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  
   patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
